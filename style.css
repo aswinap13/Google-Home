@@ -1,0 +1,32 @@
+body{
+	font-family: 'Rubik', sans-serif;
+	margin:1%;
+}
+.header{
+	text-align: right;
+	font-size: small;
+}
+a{
+	color: #9494b8;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration:underline;
+}
+
+#google {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+#searchbox{
+	border-radius: 40px;
+	border-width: 0.1px;
+	border-color: #c2c2d6;
+	width:30%;
+	height:35px;
+}
+#searchbox:hover{
+	 box-shadow:5px 5px 5px  #e0e0eb;
+}
