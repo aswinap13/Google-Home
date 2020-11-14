@@ -1,3 +1,3 @@
 # project1
  
-Project was the practice project did along with the community - webdev"Clinify"
+Project0 of my web dev course - with Harvard University
