@@ -1,3 +1,3 @@
-# project1
+# Project1: Google
  
-Project0 of my web dev course - with Harvard University
+Trying to replicate Google Home page
